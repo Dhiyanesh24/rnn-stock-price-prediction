@@ -104,4 +104,6 @@ print(mse(y_test,predicted_stock_price))
 ![image](https://github.com/user-attachments/assets/6dc6fb00-9732-46d6-b492-6347743a66af)
 
 
-## Result
+## Result 
+Hence the Recurrent Neural Network model for stock price prediction is developed
+
